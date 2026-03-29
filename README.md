@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nikhilesh14 
+- 📧 Email: nikhileshgautam69@gmail.com  
 
 ---
 
