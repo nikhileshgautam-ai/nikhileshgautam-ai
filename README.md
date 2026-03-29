@@ -13,10 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, C++  
-- **Data Tools:** Pandas, Power BI, Excel  
-- **Web:** HTML, CSS (Basics)  
-- **Tools:** Git, GitHub  
+- **Languages:** Python, SQL, C++, RPGLE
+- **Data Tools:** Pandas, Power BI, Excel 
+- **Tools:** Git, GitHub, Jira, Docker 
 
 ---
 
@@ -29,13 +28,6 @@
 
 - 📈 **Data Analysis Projects (SQL + Python)**  
   → Worked on real datasets to extract insights  
-
----
-
-## 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
