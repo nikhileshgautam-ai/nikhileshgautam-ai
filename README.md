@@ -31,8 +31,7 @@
 
 ---
 
-## 🔥 Current Focus
-- 📚 Learning React (Basics)  
+## 🔥 Current Focus 
 - 📊 Improving Data Analytics & Visualization skills  
 - ⚡ Building real-world data projects  
 
